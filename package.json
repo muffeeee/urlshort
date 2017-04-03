@@ -1,0 +1,12 @@
+{
+  "name": "urlshort",
+  "version": "0.1.0",
+  "description": "url shortener",
+  "private": true,
+  "dependencies": {
+    "mongoose": "latest",
+    "express": "latest",
+    "body-parser": "latest",
+    "shortid": "latest"
+  }
+}
